@@ -9,4 +9,4 @@ Download the Apk file on your Android phone and just install the Quiz App via it
 
 * **Android APIs**
 * **ImageView**
-* **InputMethodManeger**
+* **InputMethodManager**
